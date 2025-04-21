@@ -4,5 +4,4 @@
   - A public events platform
   - A knowledge management application
   - An immutable architecture library
-  - My portfolio
 
